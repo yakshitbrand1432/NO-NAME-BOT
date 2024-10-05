@@ -1,5 +1,5 @@
 // set bash title
-process.stdout.write("\x1b]2;Goat Bot V2 - Made by NTKhang\x1b\x5c");
+process.stdout.write("\x1b]2;Goat Bot V2 - Made by AminulSordar\x1b\x5c");
 const defaultRequire = require;
 
 function decode(text) {
@@ -112,7 +112,7 @@ if (subTitle.length > maxWidth) {
 else {
 	subTitleArray.push(subTitle);
 }
-const author = ("Created by NTKhang with ♡");
+const author = ("Created by aminulsordar with ♡");
 const srcUrl = ("Source code: https://github.com/ntkhang03/Goat-Bot-V2");
 const fakeRelease = ("ALL VERSIONS NOT RELEASED HERE ARE FAKE");
 for (const t of subTitleArray) {
@@ -319,7 +319,7 @@ async function getAppStateFromEmail(spin = { _start: () => { }, _stop: () => { }
 	catch (err) {
 		const loginMbasic = require(process.env.NODE_ENV === 'development' ? "./loginMbasic.dev.js" : "./loginMbasic.js");
 		if (facebookAccount["2FASecret"]) {
-			switch (['.png', '.jpg', '.jpeg'].some(i => facebookAccount["2FASecret"].endsWith(i))) {
+			switch (['.png', '.jpg', '. => facebookAccount["2FASecret"].endsWith(i))) {
 				case true:
 					code2FATemp = (await qr.readQrCode(`${process.cwd()}/${facebookAccount["2FASecret"]}`)).replace(/.*secret=(.*)&digits.*/g, '$1');
 					break;
