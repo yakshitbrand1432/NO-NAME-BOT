@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.0",
-    author: "𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/100071880593545**//
+    author: "𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿", 
     role: 0,
     category: "help",
     shortDescription: "see the available commands",
@@ -16,10 +16,6 @@ module.exports = {
   },
 
   onStart: async function ({ api, message, args, event, threadsData, getLang }) {
-    const obfuscatedAuthor = String.fromCharCode(77, 79, 72, 65, 77, 77, 65, 68, 45, 66, 65, 68, 79, 76);
-    if (this.config.author !== obfuscatedAuthor) {
-      return api.sendMessage("Fuck you credit changers type \n Author Name: 𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿 \n commands working will do", event.threadID, event.messageID);
-    }
     const langCode = await threadsData.get(event.threadID, "data.lang") || global.GoatBot.config.language;
     const { threadID } = event;
     const prefix = getPrefix(threadID);
@@ -110,4 +106,4 @@ async function getCommandsFromDir(dir) {
   }
 
   return commands;
-                            }
+      }
