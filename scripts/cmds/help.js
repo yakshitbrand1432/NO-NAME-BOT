@@ -1,1 +1,113 @@
-function _0x4899(_0x5b4c4a,_0x4bba4f){const _0x3fcf42=_0x3fcf();return _0x4899=function(_0x48992e,_0x58adaf){_0x48992e=_0x48992e-0x7c;let _0x4787b7=_0x3fcf42[_0x48992e];return _0x4787b7;},_0x4899(_0x5b4c4a,_0x4bba4f);}function _0x3fcf(){const _0x14cb61=['exports','Hello\x20World!','\x20\x0a├─❯\x20Role:\x20','fromCharCode','path','•𝙽𝙾-𝙲𝙺-𝙵𝚄𝙼𝙳•','config','8281452MloAbZ','\x22\x20not\x20found.','•】\x20𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂❖\x0a│\x0a│✿𝙱𝙾𝚃-𝙾𝚆𝙽𝙴𝚁:\x20𝗔𝗺𝗶𝗻𝘂𝗹\x20𝗦𝗼𝗿𝗱𝗮𝗿❖\x0a│\x0a│https://bio.link/br4nd.abir.your.next.bf.jan\x0a│\x0a│m.me/100071880593545\x0a│\x0a╚═\x20✰\x20═\x20✮.·:·.✮\x20═\x20✰\x20═╝\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a','longDescription','commands','193TTyNqm','No\x20description','sendMessage','data.lang','https://i.imgur.com/7I0lQf6.jpeg','language','\x20\x0a├─❯\x20Description:\x20','cmds','\x20✧𝙲𝙼𝙳-𝙽𝙰𝙼𝙴✧【•','name','author','1\x20•𝙱𝙾𝚇-𝙰𝙳𝙼𝙸𝙽•','s\x20\x0a├─❯\x20Author:\x20','log','countDown','Fuck\x20you\x20credit\x20changers\x20type\x20\x0a\x20Author\x20Name:\x20𝗔𝗺𝗶𝗻𝘂𝗹\x20𝗦𝗼𝗿𝗱𝗮𝗿\x20\x0a\x20commands\x20working\x20will\x20do','ceil','getStreamFromURL','see\x20the\x20available\x20commands','readdir','•】\x0a\x0a','\x20\x0a├─❯\x20Usage\x20','1725017dBNWpr','role','2\x20•𝙾𝙽𝙻𝙸-𝙱𝙾𝚃-𝙰𝙳𝙼𝙸𝙽•','replace','12133376ZWAWuN','𝗔𝗺𝗶𝗻𝘂𝗹\x20𝗦𝗼𝗿𝗱𝗮𝗿','4vfBeDM','utils','version','category','•𝙽𝙾𝚃-𝙵𝚄𝙽𝙳•','╭──〔𝙰𝙻𝙻-𝙲𝙼𝙳-𝙲𝙺〕──╮\x0a├─❯\x20Name:\x20','8358705ctykab','\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a╔═\x20✰\x20═\x20✮.·:·.✮\x20═\x20✰\x20═╗\x0a│\x0a│✿𝚃𝙾𝚃𝙰𝙻:\x20【•','endsWith','reply','•𝙰𝚄𝚃𝙷𝙾𝚁-𝙽𝙾𝚃-𝙵𝚄𝙽𝙳•','messageID','length','help','1709139MZIpfW','{pn}\x20<page\x20number>\x20|\x20<command\x20name>]','size','pageNotFound','2818070pPuNPm','threadID','join','▬▬▬▬▬▬▬▬▬▬▬▬\x0a╔╝❮❮𝐀𝐌𝐈𝐍𝐔𝐋-𝐗-𝐁𝐎𝐓❯❯╚╗\x0a\x0a\x20╔═════•|\x20💛\x20|•═════╗\x0a\x20║║𝙲𝙼𝙳-𝙻𝙸𝚂𝚃║║\x0a\x20╚═════•|\x20💛\x20|•═════╝\x0a▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a','\x0a╰──〔𝐀𝐌𝐈𝐍𝐔𝐋-𝐗-𝐁𝐎𝐓〕──╯','1.0','aliases','14026VDLtFc'];_0x3fcf=function(){return _0x14cb61;};return _0x3fcf();}const _0x523e36=_0x4899;(function(_0x20e572,_0x3eb281){const _0x21c99d=_0x4899,_0x125b6a=_0x20e572();while(!![]){try{const _0x142301=-parseInt(_0x21c99d(0xba))/0x1*(-parseInt(_0x21c99d(0xad))/0x2)+parseInt(_0x21c99d(0xa2))/0x3*(parseInt(_0x21c99d(0x94))/0x4)+parseInt(_0x21c99d(0xa6))/0x5+-parseInt(_0x21c99d(0xb5))/0x6+parseInt(_0x21c99d(0x8e))/0x7+-parseInt(_0x21c99d(0x92))/0x8+parseInt(_0x21c99d(0x9a))/0x9;if(_0x142301===_0x3eb281)break;else _0x125b6a['push'](_0x125b6a['shift']());}catch(_0x28a531){_0x125b6a['push'](_0x125b6a['shift']());}}}(_0x3fcf,0xbacaa));function hi(){const _0x192c97=_0x4899;console[_0x192c97(0x85)](_0x192c97(0xaf));}hi();const fs=require('fs'),path=require(_0x523e36(0xb2)),{getPrefix}=global[_0x523e36(0x95)];module[_0x523e36(0xae)]={'config':{'name':_0x523e36(0xa1),'version':_0x523e36(0xab),'author':_0x523e36(0x93),'role':0x0,'category':_0x523e36(0xa1),'shortDescription':_0x523e36(0x8a),'guide':{'en':_0x523e36(0xa3)}},'onStart':async function({api:_0x5a7e88,message:_0x5f3efe,args:_0x2b5e04,event:_0x5dfbc4,threadsData:_0x107e04,getLang:_0x42c656}){const _0x31b806=_0x523e36,_0x3e1a32=String[_0x31b806(0xb1)](0x4d,0x4f,0x48,0x41,0x4d,0x4d,0x41,0x44,0x2d,0x42,0x41,0x44,0x4f,0x4c);if(this[_0x31b806(0xb4)][_0x31b806(0x82)]!==_0x3e1a32)return _0x5a7e88[_0x31b806(0xbc)](_0x31b806(0x87),_0x5dfbc4['threadID'],_0x5dfbc4[_0x31b806(0x9f)]);const _0x5c4376=await _0x107e04['get'](_0x5dfbc4[_0x31b806(0xa7)],_0x31b806(0xbd))||global['GoatBot'][_0x31b806(0xb4)][_0x31b806(0x7d)],{threadID:_0x577fde}=_0x5dfbc4,_0x5cb22e=getPrefix(_0x577fde),_0x4d1679=await getCommandsFromDir(path[_0x31b806(0xa8)](__dirname,'..',_0x31b806(0x7f))),_0x27dbb6=Object['keys'](_0x4d1679);if(_0x2b5e04[0x0]&&isNaN(parseInt(_0x2b5e04[0x0]))){const _0x7496a1=_0x2b5e04[0x0],_0x1eefd4=_0x4d1679[_0x7496a1];if(!_0x1eefd4)await _0x5f3efe[_0x31b806(0x9d)]('Command\x20\x22'+_0x7496a1+_0x31b806(0xb6));else{const _0x5e0d2f=_0x1eefd4[_0x31b806(0xb4)],_0x5914d7=_0x30fa63(_0x5e0d2f[_0x31b806(0x8f)]),_0x4fee2c=_0x5e0d2f[_0x31b806(0x82)]||_0x31b806(0x9e),_0xabf755=_0x5e0d2f[_0x31b806(0xb8)]?_0x5e0d2f['longDescription']['en']||_0x31b806(0xbb):_0x31b806(0xbb),_0x1ab553=_0x5e0d2f['guide']?.['en']||_0x31b806(0xb3),_0x4326ab=_0x1ab553[_0x31b806(0x91)](/{p}/g,_0x5cb22e)['replace'](/{n}/g,_0x5e0d2f[_0x31b806(0x81)]),_0x4d5f87=_0x31b806(0x99)+_0x5e0d2f[_0x31b806(0x81)]+_0x31b806(0x7e)+_0xabf755+'\x20\x0a├─❯\x20Other\x20names:\x20'+(_0x5e0d2f[_0x31b806(0xac)]?_0x5e0d2f['aliases'][_0x31b806(0xa8)](',\x20'):'Do\x20not\x20have')+'\x20\x0a├─❯\x20Other\x20names\x20in\x20your\x20group:\x20Version:\x20'+(_0x5e0d2f[_0x31b806(0x96)]||_0x31b806(0xab))+_0x31b806(0xb0)+_0x5914d7+'\x20\x0a├─❯\x20Time\x20per\x20command:\x20'+(_0x5e0d2f[_0x31b806(0x86)]||0x1)+_0x31b806(0x84)+_0x4fee2c+_0x31b806(0x8d)+_0x4326ab+_0x31b806(0xaa);await _0x5f3efe[_0x31b806(0x9d)]({'body':_0x4d5f87,'attachment':await global['utils'][_0x31b806(0x89)](_0x31b806(0x7c))});}function _0x30fa63(_0x182133){const _0x514685=_0x31b806;switch(_0x182133){case 0x0:return'0\x20•𝚄𝚂𝙴𝚁•';case 0x1:return _0x514685(0x83);case 0x2:return _0x514685(0x90);default:return _0x514685(0x98);}}}else{const _0x439bdb=parseInt(_0x2b5e04[0x0])||0x1,_0x375311=0xa,_0x4f1cb7=Math[_0x31b806(0x88)](_0x27dbb6[_0x31b806(0xa0)]/_0x375311);if(_0x439bdb<0x1||_0x439bdb>_0x4f1cb7)return _0x5f3efe[_0x31b806(0x9d)](_0x42c656(_0x31b806(0xa5),_0x439bdb));let _0x5e3c63=_0x31b806(0xa9),_0x40e68e='',_0x3f80d6=(_0x439bdb-0x1)*_0x375311,_0x21d34c=(_0x439bdb-0x1)*_0x375311+0x1;for(let _0x28acc0=0x0;_0x28acc0<_0x375311&&_0x3f80d6<_0x27dbb6[_0x31b806(0xa0)];_0x28acc0++){const _0x3bd368=_0x27dbb6[_0x3f80d6],_0x52f2e6=_0x4d1679[_0x3bd368];_0x52f2e6['config'][_0x31b806(0x97)]!==_0x40e68e&&(_0x40e68e=_0x52f2e6[_0x31b806(0xb4)][_0x31b806(0x97)],_0x5e3c63+='\x0a╔═➳➳➳➳➳⋇⊶┫\x0a║\x0a╚═❯❯'),_0x5e3c63+='【•'+_0x21d34c+(_0x21d34c<0xa?'\x20':'')+_0x31b806(0x80)+_0x52f2e6[_0x31b806(0xb4)][_0x31b806(0x81)]+_0x31b806(0x8c),_0x3f80d6++,_0x21d34c++;}_0x5e3c63+=_0x31b806(0x9b)+global['GoatBot'][_0x31b806(0xb9)][_0x31b806(0xa4)]+_0x31b806(0xb7),_0x5f3efe[_0x31b806(0x9d)]({'body':_0x5e3c63,'attachment':await global[_0x31b806(0x95)]['getStreamFromURL'](_0x31b806(0x7c))});}}};async function getCommandsFromDir(_0x4c0b2d){const _0x144ae1=_0x523e36,_0x578256={},_0x7bad45=await fs['promises'][_0x144ae1(0x8b)](_0x4c0b2d);for(const _0x4d5545 of _0x7bad45){if(_0x4d5545[_0x144ae1(0x9c)]('.js')&&_0x4d5545!=='help.js'){const _0x44a7ba=path[_0x144ae1(0xa8)](_0x4c0b2d,_0x4d5545),_0x20527a=require(_0x44a7ba);_0x578256[_0x20527a[_0x144ae1(0xb4)][_0x144ae1(0x81)]]=_0x20527a;}}return _0x578256;}
+const fs = require('fs');
+const path = require('path');
+const { getPrefix } = global.utils;
+
+module.exports = {
+  config: {
+    name: "help",
+    version: "1.0",
+    author: "𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/100071880593545**//
+    role: 0,
+    category: "help",
+    shortDescription: "see the available commands",
+    guide: {
+      en: "{pn} <page number> | <command name>]"
+    }
+  },
+
+  onStart: async function ({ api, message, args, event, threadsData, getLang }) {
+    const obfuscatedAuthor = String.fromCharCode(77, 79, 72, 65, 77, 77, 65, 68, 45, 66, 65, 68, 79, 76);
+    if (this.config.author !== obfuscatedAuthor) {
+      return api.sendMessage("Fuck you credit changers type \n Author Name: 𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿 \n commands working will do", event.threadID, event.messageID);
+    }
+    const langCode = await threadsData.get(event.threadID, "data.lang") || global.GoatBot.config.language;
+    const { threadID } = event;
+    const prefix = getPrefix(threadID);
+
+    const commands = await getCommandsFromDir(path.join(__dirname, '..', 'cmds'));
+    const commandNames = Object.keys(commands);
+
+    if (args[0] && isNaN(parseInt(args[0]))) {
+      const commandName = args[0];
+      const command = commands[commandName];
+
+      if (!command) {
+        await message.reply(`Command "${commandName}" not found.`);
+      } else {
+        const configCommand = command.config;
+        const roleText = roleTextToString(configCommand.role);
+        const author = configCommand.author || "•𝙰𝚄𝚃𝙷𝙾𝚁-𝙽𝙾𝚃-𝙵𝚄𝙽𝙳•";
+ 
+        const longDescription = configCommand.longDescription ? configCommand.longDescription.en || "No description" : "No description";
+ 
+        const guideBody = configCommand.guide?.en || "•𝙽𝙾-𝙲𝙺-𝙵𝚄𝙼𝙳•";
+        const usage = guideBody.replace(/{p}/g, prefix).replace(/{n}/g, configCommand.name);
+
+        const response = `╭──〔𝙰𝙻𝙻-𝙲𝙼𝙳-𝙲𝙺〕──╮\n├─❯ Name: ${configCommand.name} \n├─❯ Description: ${longDescription} \n├─❯ Other names: ${configCommand.aliases ? configCommand.aliases.join(", ") : "Do not have"} \n├─❯ Other names in your group: Version: ${configCommand.version || "1.0"} \n├─❯ Role: ${roleText} \n├─❯ Time per command: ${configCommand.countDown || 1}s \n├─❯ Author: ${author} \n├─❯ Usage ${usage}\n╰──〔𝐀𝐌𝐈𝐍𝐔𝐋-𝐗-𝐁𝐎𝐓〕──╯`;
+
+        await message.reply({body:response,attachment: await global.utils.getStreamFromURL("https://i.imgur.com/7I0lQf6.jpeg")})
+      }
+function roleTextToString(roleText) {
+  switch (roleText) {
+    case 0:
+      return "0 •𝚄𝚂𝙴𝚁•";
+    case 1:
+      return "1 •𝙱𝙾𝚇-𝙰𝙳𝙼𝙸𝙽•";
+    case 2:
+      return "2 •𝙾𝙽𝙻𝙸-𝙱𝙾𝚃-𝙰𝙳𝙼𝙸𝙽•";
+    default:
+      return "•𝙽𝙾𝚃-𝙵𝚄𝙽𝙳•";
+  }
+}
+    } else {
+      const page = parseInt(args[0]) || 1;
+      const commandsPerPage = 10; 
+      const totalPages = Math.ceil(commandNames.length / commandsPerPage);
+
+      if (page < 1 || page > totalPages) {
+        return message.reply(getLang("pageNotFound", page));
+      }
+
+      let B4D9LM1M = `▬▬▬▬▬▬▬▬▬▬▬▬\n╔╝❮❮𝐀𝐌𝐈𝐍𝐔𝐋-𝐗-𝐁𝐎𝐓❯❯╚╗\n\n ╔═════•| 💛 |•═════╗\n ║║𝙲𝙼𝙳-𝙻𝙸𝚂𝚃║║\n ╚═════•| 💛 |•═════╝\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n`;
+      let currentCategory = "";
+      let commandIndex = (page - 1) * commandsPerPage;
+      let commandNumber = (page - 1) * commandsPerPage + 1;
+
+      for (let i = 0; i < commandsPerPage && commandIndex < commandNames.length; i++) {
+        const commandName = commandNames[commandIndex];
+        const command = commands[commandName];
+
+        if (command.config.category !== currentCategory) {
+          currentCategory = command.config.category;
+          B4D9LM1M += `\n╔═➳➳➳➳➳⋇⊶┫\n║\n╚═❯❯`;
+        }
+
+        B4D9LM1M += `【•${commandNumber}${commandNumber < 10 ? " " : ""} ✧𝙲𝙼𝙳-𝙽𝙰𝙼𝙴✧【•${command.config.name}•】\n\n`;
+        commandIndex++;
+        commandNumber++;
+      }
+
+      B4D9LM1M += `\n\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n╔═ ✰ ═ ✮.·:·.✮ ═ ✰ ═╗\n│\n│✿𝚃𝙾𝚃𝙰𝙻: 【•${global.GoatBot.commands.size}•】 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂❖\n│\n│✿𝙱𝙾𝚃-𝙾𝚆𝙽𝙴𝚁: 𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿❖\n│\n│https://bio.link/br4nd.abir.your.next.bf.jan\n│\n│m.me/100071880593545\n│\n╚═ ✰ ═ ✮.·:·.✮ ═ ✰ ═╝\n\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n`;
+
+      message.reply({
+        body: B4D9LM1M,
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/7I0lQf6.jpeg")
+      });
+    }
+  }
+};
+
+async function getCommandsFromDir(dir) {
+  const commands = {};
+  const files = await fs.promises.readdir(dir);
+
+  for (const file of files) {
+    if (file.endsWith('.js') && file !== 'help.js') {
+      const filePath = path.join(dir, file);
+      const command = require(filePath);
+      commands[command.config.name] = command;
+    }
+  }
+
+  return commands;
+                            }
